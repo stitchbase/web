@@ -1,1 +1,0 @@
-import{af as o,ag as a,u as n,ah as p}from"./BJ1Vqz_I.js";const i=o({companyName:"stitchBASE",startYear:"2024",facebookUrl:"https://facebook.com",instagramUrl:"https://instagram.com",xUrl:"https://x.com",redditUrl:"https://reddit.com"}),s={nuxt:{}},e=a(i,s);function r(){const t=n();return t._appConfig||(t._appConfig=p(e)),t._appConfig}export{r as u};
