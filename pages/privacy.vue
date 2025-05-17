@@ -1,3 +1,3 @@
 <template>
-  <PageHeader heading="Privacy Policy"></PageHeader>
+  <h1>Privacy Policy</h1>
 </template>

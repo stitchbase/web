@@ -1,6 +1,6 @@
 export default defineAppConfig({
-  companyName: "stitchBASE",
-  startYear: "2024",
+  companyName: "Stitchbase",
+  startYear: "2025",
   facebookUrl: "https://facebook.com",
   instagramUrl: "https://instagram.com",
   xUrl: "https://x.com",

@@ -11,15 +11,13 @@ const sizeClass = props.isSmall ? "small" : "large";
 
 <template>
   <p :class="`logo ${sizeClass}`">
-    <span class="script">
-      <span class="text-red">s</span>
+      <span class="text-red">S</span>
       <span class="text-orange">t</span>
       <span class="text-yellow">i</span>
       <span class="text-green">t</span>
       <span class="text-blue">c</span>
       <span class="text-purple">h</span>
-    </span>
-    <span :class="`base ${sizeClass} text-gray`">BASE</span>
+    <span :class="`base ${sizeClass} text-gray`">base</span>
   </p>
 </template>
 

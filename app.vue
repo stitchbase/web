@@ -13,7 +13,5 @@ useHead({
 </template>
 
 <style lang="css">
-.container {
-  @apply mx-auto max-w-7xl px-6 lg:px-8;
-}
+
 </style>

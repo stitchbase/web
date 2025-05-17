@@ -1,10 +1,3 @@
 <template>
-  <main>
-    <HomeHero />
-    <HomeFeatures />
-    <HomeNewsletter />
-    <HomeAbout />
-    <HomeFAQ />
-    <HomeBlogList />
-  </main>
+  <h1>Home Page</h1>
 </template>
